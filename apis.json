@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - link.fish",
+	"description": "This is a repository of link.fish APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/link-fish.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://link-fish.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "link.fish",
+			"x-api-slug": "link-fish",
+			"description": "Automatically get the information of the websites you are interested in and work with it together with others in real-time. Depending on the page you bookmark link.fish automatically extracts the data you actually care about. No matter if bedrooms for apartments, rating of movies or the cook time of your favorite recipe. Invite other people to your collection to work with them or make it public for everbody to see. All changes made will immediately be visible by everyone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png",
+			"humanURL": "http://link.fish",
+			"baseURL": "https://api.link.fish//",
+			"tags": "link.fish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/link-fish/master/_listings/link-fish/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "link.fish",
+	"include": [
+		{
+			"name": "link.fish",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/link-fish/master/_listings/link-fish/apis.yaml"
+		}
+	]
+}

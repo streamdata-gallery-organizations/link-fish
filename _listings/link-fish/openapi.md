@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: link.fish
 x-complete: 1
@@ -211,4 +210,3 @@ paths:
       - Urls
       - Social
       - Media
----
